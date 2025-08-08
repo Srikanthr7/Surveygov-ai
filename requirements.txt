@@ -8,4 +8,8 @@ matplotlib==3.9.2
 seaborn==0.13.2
 groq==0.11.0
 python-dotenv==1.0.0
+<<<<<<< HEAD
 flask-session==0.8.0
+=======
+flask-session==0.8.0
+>>>>>>> 1af2cf0cd9f1dd725c83650e0520e1378866b392
