@@ -1,0 +1,6 @@
+.env
+temp/*
+__pycache__/
+*.pyc
+*.pdf
+*.png
