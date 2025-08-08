@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Streamlit",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/survey_app.py",
+            "envFile": "${workspaceFolder}/.env",
+            "args": ["run", "${workspaceFolder}/survey_app.py"],
+            "module": "streamlit"
+        }
+    ]
+}
